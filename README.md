@@ -68,7 +68,7 @@ Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Ja
 
 ### Misc ###
 
-* [**Carne Mellon Robotics Academy**](http://education.rec.ri.cmu.edu/)
-* [**Let's Make Robots**](http://letsmakerobots.com/)
-* [**How do I learn Robotics ?**](https://www.quora.com/How-do-I-learn-robotics)
-* [**IEEE spectrum Robotics**](http://spectrum.ieee.org/robotics)
+* [Carne Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
+* [Let's Make Robots](http://letsmakerobots.com/)
+* [How do I learn Robotics ?](https://www.quora.com/How-do-I-learn-robotics)
+* [IEEE spectrum Robotics](http://spectrum.ieee.org/robotics)
