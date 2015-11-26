@@ -26,7 +26,7 @@ Awesome Robotics
 * [Learning Computing With Robots](http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots)
 * [A gentle introduction to robotics](http://www.amazon.com/Gentle-Introduction-ROS-Jason-OKane/dp/1492143235)  :dollar:
 * [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
-
+* [INTECH Books](http://www.intechopen.com/subjects/robotics)
 
 
 ### Software and Libraries ###
@@ -63,3 +63,12 @@ Yet Another Robot Platform.
 
 [**V-REP**](http://www.coppeliarobotics.com/)
 Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver.
+
+
+
+### Misc ###
+
+* [**Carne Mellon Robotics Academy**](http://education.rec.ri.cmu.edu/)
+* [**Let's Make Robots**](http://letsmakerobots.com/)
+* [**How do I learn Robotics ?**](https://www.quora.com/How-do-I-learn-robotics)
+* [**IEEE spectrum Robotics**](http://spectrum.ieee.org/robotics)
