@@ -1,6 +1,7 @@
 Awesome Robotics
 ================
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ### Courses ###
 * [Autonomus Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info)  **edx**
