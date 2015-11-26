@@ -1,6 +1,7 @@
 Awesome Robotics
 ================
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ### Courses ###
 * [Autonomus Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info)  **edx**
@@ -68,7 +69,7 @@ Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Ja
 
 ### Misc ###
 
-* [**Carne Mellon Robotics Academy**](http://education.rec.ri.cmu.edu/)
-* [**Let's Make Robots**](http://letsmakerobots.com/)
-* [**How do I learn Robotics ?**](https://www.quora.com/How-do-I-learn-robotics)
-* [**IEEE spectrum Robotics**](http://spectrum.ieee.org/robotics)
+* [Carne Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
+* [Let's Make Robots](http://letsmakerobots.com/)
+* [How do I learn Robotics ?](https://www.quora.com/How-do-I-learn-robotics)
+* [IEEE spectrum Robotics](http://spectrum.ieee.org/robotics)
