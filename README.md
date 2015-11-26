@@ -30,47 +30,36 @@ Awesome Robotics
 
 
 ### Software and Libraries ###
-[Gazebo](http://gazebosim.org/)
-
+[**Gazebo**](http://gazebosim.org/)
 Robot Simulator
 
-[ROS](http://www.ros.org/)
-
+[**ROS**](http://www.ros.org/)
 The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
 
-[RobWork](http://www.robwork.dk/jrobwork/)
-
+[**RobWork**](http://www.robwork.dk/jrobwork/)
 RobWork is a collection of C++ libraries for simulation and control of robot systems. RobWork is used for research and education as well as for practical robot applications.
 
-[MRPT](http://www.mrpt.org/)
-
+[**MRPT**](http://www.mrpt.org/)
 Mobile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas.
 
-[Robotics Library](http://www.roboticslibrary.org/)
-
+[**Robotics Library**](http://www.roboticslibrary.org/)
 The Robotics Library (RL) is a self-contained C++ library for robot kinematics, motion planning and control. It covers mathematics, kinematics and dynamics, hardware abstraction, motion planning, collision detection, and visualization.
 
-[Simbad](http://simbad.sourceforge.net/)
-
+[**Simbad**](http://simbad.sourceforge.net/)
 2D/3D simulator in Java and Jython.
 
-[Morse](https://www.openrobots.org/wiki/morse/)
-
+[**Morse**](https://www.openrobots.org/wiki/morse/)
 General purpose indoor/outdoor 3D simulator.
 
-[Carmen](http://carmen.sourceforge.net/)
-
+[**Carmen**](http://carmen.sourceforge.net/)
 CARMEN is an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation pri
 matives including: base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping.
 
-[Peekabot](http://www.peekabot.org/)
-
+[**Peekabot**](http://www.peekabot.org/)
 Peekabot is a real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily.
 
-[YARP](http://www.yarp.it/)
-
+[**YARP**](http://www.yarp.it/)
 Yet Another Robot Platform.
 
-[V-REP](http://www.coppeliarobotics.com/)
-
+[**V-REP**](http://www.coppeliarobotics.com/)
 Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver.
