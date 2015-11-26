@@ -65,11 +65,17 @@ Yet Another Robot Platform.
 [**V-REP**](http://www.coppeliarobotics.com/)
 Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver.
 
-
-
 ### Misc ###
 
 * [Carne Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
 * [Let's Make Robots](http://letsmakerobots.com/)
 * [How do I learn Robotics ?](https://www.quora.com/How-do-I-learn-robotics)
 * [IEEE spectrum Robotics](http://spectrum.ieee.org/robotics)
+
+
+### Related awesome lists ###
+
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
