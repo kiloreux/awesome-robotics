@@ -65,6 +65,13 @@ Yet Another Robot Platform.
 [**V-REP**](http://www.coppeliarobotics.com/)
 Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver.
 
+### Papers and Journals ###
+
+* [Sagepub - International Journal of robotics research](http://www.ijrr.org/)
+* [Journal of field robotics](http://www.journalfieldrobotics.org/Home.html)
+* [Optimization Based Controller Design and Implementation for the
+Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
+
 ### Misc ###
 
 * [Carne Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
