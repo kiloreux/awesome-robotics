@@ -72,13 +72,20 @@ Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Ja
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
 
+### Competitions ###
+
+* [ICRA](http://icra2015.org/conference/robot-challenges)
+* [Robot Challenge](http://www.robotchallenge.org/)
+* [DARPA challenges](http://www.theroboticschallenge.org/)
+* [European Robotics Challenges](http://www.euroc-project.eu/)
+
 ### Misc ###
 
 * [Carne Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
 * [Let's Make Robots](http://letsmakerobots.com/)
 * [How do I learn Robotics ?](https://www.quora.com/How-do-I-learn-robotics)
 * [IEEE spectrum Robotics](http://spectrum.ieee.org/robotics)
-
+* [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
 
 ### Related awesome lists ###
 
