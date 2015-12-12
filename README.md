@@ -7,14 +7,14 @@ Awesome Robotics
 * [Autonomus Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info)  **edx**
 * [Underactuated Robotics](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/info) **edx**
 * [Autonomus Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edx**
-* [Intrdouction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **QUT**
+* [Intrdouction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **MIT**
 * [Control of Mobile Robots](https://www.coursera.org/course/conrob) **coursera**
 * [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edx**
 * [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edx**
 * [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edx**
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **udacity**
 * [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
-
+* [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford**
 
 
 
@@ -80,7 +80,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [European Robotics Challenges](http://www.euroc-project.eu/)
 
 ### Misc ###
-
+* [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
 * [Carne Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
 * [Let's Make Robots](http://letsmakerobots.com/)
 * [How do I learn Robotics ?](https://www.quora.com/How-do-I-learn-robotics)
