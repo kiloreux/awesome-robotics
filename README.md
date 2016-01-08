@@ -23,9 +23,9 @@ Awesome Robotics
 * [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)  :dollar:
 * [Springer Handbook of Robotics](http://www.amazon.com/Springer-Handbook-Robotics-Bruno-Siciliano/dp/354023957X)  :dollar:
 * [Planning Algorithms](http://planning.cs.uiuc.edu/)
+* [A gentle introduction to ROS](https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf)
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
 * [Learning Computing With Robots](http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots)
-* [A gentle introduction to robotics](http://www.amazon.com/Gentle-Introduction-ROS-Jason-OKane/dp/1492143235)  :dollar:
 * [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 * [INTECH Books](http://www.intechopen.com/subjects/robotics)
 
