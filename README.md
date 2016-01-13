@@ -15,6 +15,7 @@ Awesome Robotics
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **udacity**
 * [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
 * [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford**
+* [Introduction to Robotics](https://see.stanford.edu/Course/CS223A)**Stanford**
 
 
 
