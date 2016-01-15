@@ -3,6 +3,8 @@ Awesome Robotics
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+This is a list of different books courses and other resources for robotics, it's an attempt to gather useful materials in one place for everybody who wants to learn more about the field. 
+
 ### Courses ###
 * [Autonomus Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info)  **edx**
 * [Underactuated Robotics](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/info) **edx**
