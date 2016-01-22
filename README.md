@@ -3,22 +3,21 @@ Awesome Robotics
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a list of different books courses and other resources for robotics, it's an attempt to gather useful materials in one place for everybody who wants to learn more about the field. 
+This is a list of different books courses and other resources for robotics, it's an attempt to gather useful materials in one place for everybody who wants to learn more about the field.
 
 ### Courses ###
-* [Autonomus Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info)  **edx**
-* [Underactuated Robotics](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/info) **edx**
-* [Autonomus Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edx**
-* [Intrdouction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **MIT**
-* [Control of Mobile Robots](https://www.coursera.org/course/conrob) **coursera**
-* [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edx**
-* [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edx**
-* [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edx**
-* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **udacity**
+* [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info)  **edX**
+* [Underactuated Robotics](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/info) **edX**
+* [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
+* [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **MIT**
+* [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
+* [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edX**
+* [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
+* [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
+* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
 * [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
-* [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford**
-* [Introduction to Robotics](https://see.stanford.edu/Course/CS223A)**Stanford**
-
+* [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
+* [Introduction to Robotics](https://see.stanford.edu/Course/CS223A)**Stanford University**
 
 
 ### Books ###
@@ -56,8 +55,7 @@ The Robotics Library (RL) is a self-contained C++ library for robot kinematics, 
 General purpose indoor/outdoor 3D simulator.
 
 [**Carmen**](http://carmen.sourceforge.net/)
-CARMEN is an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation pri
-matives including: base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping.
+CARMEN is an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation primitives including: base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping.
 
 [**Peekabot**](http://www.peekabot.org/)
 Peekabot is a real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily.
@@ -68,32 +66,33 @@ Yet Another Robot Platform.
 [**V-REP**](http://www.coppeliarobotics.com/)
 Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver.
 
-### Papers and Journals ###
 
+### Papers and Journals ###
 * [Sagepub - International Journal of robotics research](http://www.ijrr.org/)
 * [Journal of field robotics](http://www.journalfieldrobotics.org/Home.html)
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
 
-### Competitions ###
 
+### Competitions ###
 * [ICRA](http://icra2015.org/conference/robot-challenges)
 * [Robot Challenge](http://www.robotchallenge.org/)
 * [DARPA challenges](http://www.theroboticschallenge.org/)
 * [European Robotics Challenges](http://www.euroc-project.eu/)
 
+
 ### Misc ###
 * [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
-* [Carne Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
+* [Carnegie Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
 * [Let's Make Robots](http://letsmakerobots.com/)
-* [How do I learn Robotics ?](https://www.quora.com/How-do-I-learn-robotics)
+* [How do I learn Robotics?](https://www.quora.com/How-do-I-learn-robotics)
 * [IEEE spectrum Robotics](http://spectrum.ieee.org/robotics)
 * [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
 * [StackExachange Robotics community](https://robotics.stackexchange.com)
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 
-### Related awesome lists ###
 
+### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
