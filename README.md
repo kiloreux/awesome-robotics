@@ -66,6 +66,8 @@ Yet Another Robot Platform.
 [**V-REP**](http://www.coppeliarobotics.com/)
 Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver.
 
+[**Webots**](https://www.cyberbotics.com/overview)
+Webots is a development environment used to model, program and simulate mobile robots.
 
 ### Papers and Journals ###
 * [Sagepub - International Journal of robotics research](http://www.ijrr.org/)
