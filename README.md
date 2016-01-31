@@ -81,7 +81,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Robot Challenge](http://www.robotchallenge.org/)
 * [DARPA challenges](http://www.theroboticschallenge.org/)
 * [European Robotics Challenges](http://www.euroc-project.eu/)
-
+* [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
 
 ### Misc ###
 * [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
