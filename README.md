@@ -74,6 +74,7 @@ Webots is a development environment used to model, program and simulate mobile r
 * [Journal of field robotics](http://www.journalfieldrobotics.org/Home.html)
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
+* [IEEE Xplore: Robotics & Automation](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
 
 
 ### Competitions ###
