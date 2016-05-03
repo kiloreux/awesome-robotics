@@ -3,10 +3,11 @@ Awesome Robotics
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a list of different books courses and other resources for robotics, it's an attempt to gather useful materials in one place for everybody who wants to learn more about the field.
+This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
+
 
 ### Courses ###
-* [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info)  **edX**
+* [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info) **edX**
 * [Underactuated Robotics](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/info) **edX**
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
 * [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **MIT**
@@ -70,6 +71,7 @@ Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Ja
 [**Webots**](https://www.cyberbotics.com/overview)
 Webots is a development environment used to model, program and simulate mobile robots.
 
+
 ### Papers and Journals ###
 * [Sagepub - International Journal of robotics research](http://www.ijrr.org/)
 * [Journal of field robotics](http://www.journalfieldrobotics.org/Home.html)
@@ -89,15 +91,18 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 
 
 ### Misc ###
+* [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
+* [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
+* [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
 * [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
 * [Carnegie Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
 * [Let's Make Robots](http://letsmakerobots.com/)
 * [How do I learn Robotics?](https://www.quora.com/How-do-I-learn-robotics)
-* [IEEE spectrum Robotics](http://spectrum.ieee.org/robotics)
 * [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
 * [StackExachange Robotics community](https://robotics.stackexchange.com)
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 * [Robotics slack group](https://robotics-and-ai.slack.com/shared_invite/MzA1ODYzMDc2MTctMTQ1OTM0NDU5MS00MDgxYTY1ZDAy)
+
 
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
