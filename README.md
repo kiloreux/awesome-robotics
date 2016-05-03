@@ -90,6 +90,16 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
 
 
+### Companies ###
+* [Boston Dynamics](http://www.bostondynamics.com/) robotics R&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
+* [iRobot](http://www.irobot.com/) manufacturer of the famous [Roomba](https://en.wikipedia.org/wiki/Roomba) robotic vacuum cleaner
+* [Aldebaran Robotics](https://www.aldebaran.com/en) creator of the [NAO robot](https://www.youtube.com/watch?v=nNbj2G3GmAo)
+* [ABB Robotics](http://new.abb.com/products/robotics) the largest manufacturer of industrial robots
+* [KUKA Robotics](http://www.kuka-robotics.com/en/) major manufacturer of industrial robots targeted at factory automation
+* [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
+* [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
+
+
 ### Misc ###
 * [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
 * [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
