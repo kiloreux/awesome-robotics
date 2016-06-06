@@ -18,7 +18,8 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
 * [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
 * [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
-* [Introduction to Robotics](https://see.stanford.edu/Course/CS223A)**Stanford University**
+* [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
+* [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **University of Pennsylvania**
 
 
 ### Books ###
@@ -71,6 +72,8 @@ Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Ja
 [**Webots**](https://www.cyberbotics.com/overview)
 Webots is a development environment used to model, program and simulate mobile robots.
 
+[**Drake**](http://drake.mit.edu/)
+A planning, control and analysis toolbox for nonlinear dynamical systems.
 
 ### Papers and Journals ###
 * [Sagepub - International Journal of robotics research](http://www.ijrr.org/)
@@ -88,6 +91,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
 * [RoboCup](http://www.robocup.org/)
 * [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
+* [RoboMasters](http://www.robomasters.com/en/)
 
 
 ### Companies ###
@@ -98,6 +102,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [KUKA Robotics](http://www.kuka-robotics.com/en/) major manufacturer of industrial robots targeted at factory automation
 * [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
 * [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
+* [DJI](http://www.dji.com/) industry leader in drones for both commerical and industrial needs.
 
 
 ### Misc ###
@@ -119,3 +124,5 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
