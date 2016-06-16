@@ -81,7 +81,7 @@ A planning, control and analysis toolbox for nonlinear dynamical systems.
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
 * [IEEE Xplore: Robotics & Automation](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
-
+* [International Journal of Social Robotics](http://www.springer.com/engineering/robotics/journal/12369)
 
 ### Competitions ###
 * [ICRA Robot Challenges](http://icra2015.org/conference/robot-challenges)
