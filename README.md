@@ -75,6 +75,9 @@ Webots is a development environment used to model, program and simulate mobile r
 [**Drake**](http://drake.mit.edu/)
 A planning, control and analysis toolbox for nonlinear dynamical systems.
 
+[**Neurorobotics Platform (NRP)**](http://131.159.60.234/fileadmin/platform/)
+NRR is an Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
+
 ### Papers and Journals ###
 * [Sagepub - International Journal of robotics research](http://www.ijrr.org/)
 * [Journal of field robotics](http://www.journalfieldrobotics.org/Home.html)
