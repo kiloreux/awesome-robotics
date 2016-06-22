@@ -92,7 +92,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [RoboCup](http://www.robocup.org/)
 * [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
 * [RoboMasters](http://www.robomasters.com/en/)
-
+* [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
 
 ### Companies ###
 * [Boston Dynamics](http://www.bostondynamics.com/) robotics R&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
