@@ -33,6 +33,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 * [INTECH Books](http://www.intechopen.com/subjects/robotics)
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
+* [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275)
 
 
 ### Software and Libraries ###
@@ -78,6 +79,10 @@ A planning, control and analysis toolbox for nonlinear dynamical systems.
 [**Neurorobotics Platform (NRP)**](http://131.159.60.234/fileadmin/platform/)
 An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
 
+[**The Player Project**](http://playerstage.sourceforge.net/)
+Free Software tools for robot and sensor applications 
+
+
 ### Papers and Journals ###
 * [Sagepub - International Journal of robotics research](http://www.ijrr.org/)
 * [Journal of field robotics](http://www.journalfieldrobotics.org/Home.html)
@@ -85,6 +90,8 @@ An Internet-accessible simulation system that allows the simulation of robots co
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
 * [IEEE Xplore: Robotics & Automation](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
 * [International Journal of Social Robotics](http://www.springer.com/engineering/robotics/journal/12369)
+* [Frontiers in Robotics and AI](http://journal.frontiersin.org/journal/robotics-and-ai)
+
 
 ### Competitions ###
 * [ICRA Robot Challenges](http://icra2015.org/conference/robot-challenges)
@@ -106,6 +113,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
 * [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
 * [DJI](http://www.dji.com/) industry leader in drones for both commerical and industrial needs.
+* [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations. 
 
 
 ### Misc ###
