@@ -33,7 +33,8 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 * [INTECH Books](http://www.intechopen.com/subjects/robotics)
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
-* [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275)
+* [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275) :dollar:
+* [Swarm Stability and Optimization](http://www.springer.com/us/book/9783642180408) :dollar:
 
 
 ### Software and Libraries ###
@@ -103,6 +104,8 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
 * [RoboMasters](http://www.robomasters.com/en/)
 * [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
+* [The Mohamed Bin Zayed International Robotics Challenge (MBZIRC)](http://www.mbzirc.com)
+
 
 ### Companies ###
 * [Boston Dynamics](http://www.bostondynamics.com/) robotics R&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
@@ -114,7 +117,10 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
 * [DJI](http://www.dji.com/) industry leader in drones for both commerical and industrial needs.
 * [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations. 
-
+* [American Android ](http://www.americanandroid.com) Optimize the human in the loop. 
+* [Clear Path Robotics](https://www.clearpathrobotics.com) We build the world’s best robot development platforms.
+* [Yujin Robot](http://en.yujinrobot.com) ‘Robot technology’ of Yujin robot is the future of Korea.
+* [Mujin Robot](http://mujin.co.jp) Industrial Robots for Everyone!
 
 ### Misc ###
 * [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
