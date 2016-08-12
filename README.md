@@ -114,6 +114,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
 * [DJI](http://www.dji.com/) industry leader in drones for both commerical and industrial needs.
 * [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations. 
+* [Fetch Robotics](http://www.fetchrobotics.com/) A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R&D robots.
 
 
 ### Misc ###
