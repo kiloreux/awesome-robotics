@@ -91,13 +91,14 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 ### Conferences ###
 * [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
 * [IEEE Conference on Decision and Controls (CDC)](http://ieeexplore.ieee.org/servlet/opac?punumber=1000188)
+* [IEEE International Conference on Rehabilitation Robotics (ICORR)](http://www.rehabrobotics.org/)
 * [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
 * [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
 * [IEEE-RAS International Conference on Humanoid Robots (Humanoids)](http://ieeexplore.ieee.org/servlet/opac?punumber=1002042)
-* [IEEE International Conference on Rehabilitation Robotics (ICORR)](http://www.rehabrobotics.org/)
 * [Robotica](http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica)
 * [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
 * [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/)
+
 
 ### Journals ###
 * [Autonomous Robots](http://www.springer.com/engineering/robotics/journal/10514)
