@@ -83,14 +83,41 @@ An Internet-accessible simulation system that allows the simulation of robots co
 Free Software tools for robot and sensor applications 
 
 
-### Papers and Journals ###
-* [Sagepub - International Journal of robotics research](http://www.ijrr.org/)
-* [Journal of field robotics](http://www.journalfieldrobotics.org/Home.html)
+### Papers ###
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
-* [IEEE Xplore: Robotics & Automation](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
-* [International Journal of Social Robotics](http://www.springer.com/engineering/robotics/journal/12369)
+
+
+### Conferences ###
+* [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
+* [CISM IFToMM Symposium on Robot Design, Dynamics and Control (RoManSy)](http://www.romansy2016.org/)
+* [IEEE Conference on Decision and Controls (CDC)](http://ieeexplore.ieee.org/servlet/opac?punumber=1000188)
+* [IEEE International Conference on Rehabilitation Robotics (ICORR)](http://www.rehabrobotics.org/)
+* [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+* [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
+* [IEEE-RAS International Conference on Humanoid Robots (Humanoids)](http://ieeexplore.ieee.org/servlet/opac?punumber=1002042)
+* [International Symposium of Robotic Research (ISRR)](http://ifrr.org/isrr.php)
+* [International Symposium of Experimental Robotics (ISER)](http://ifrr.org/iser.php)
+* [Robotica](http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica)
+* [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
+* [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/)
+
+
+### Journals ###
+* [Autonomous Robots](http://www.springer.com/engineering/robotics/journal/10514)
+* [Bioinspiration & Biomimetics](http://iopscience.iop.org/journal/1748-3190)
 * [Frontiers in Robotics and AI](http://journal.frontiersin.org/journal/robotics-and-ai)
+* [IEEE Robotics & Automation Magazine](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
+* [IEEE Transactions on Haptics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165)
+* [IEEE Transactions on Robotics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
+* [IEEE/ASME Transactions on Mechatronics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516)
+* [International Journal of Social Robotics](http://www.springer.com/engineering/robotics/journal/12369)
+* [Journal of Field Robotics](http://www.journalfieldrobotics.org/Home.html)
+* [Journal of Intelligent & Robotic Systems](http://www.springer.com/engineering/robotics/journal/10846)
+* [Mechatronics](http://www.journals.elsevier.com/mechatronics)
+* [Robotics and Computer-Integrated Manufacturing](http://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing)
+* [Robotics and Autonomous Systems](http://www.journals.elsevier.com/robotics-and-autonomous-systems)
+* [The International Journal of Robotics Research](http://www.ijrr.org/)
 
 
 ### Competitions ###
