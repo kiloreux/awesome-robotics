@@ -84,7 +84,10 @@ A planning, control and analysis toolbox for nonlinear dynamical systems.
 An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
 
 [**The Player Project**](http://playerstage.sourceforge.net/)
-Free Software tools for robot and sensor applications 
+Free Software tools for robot and sensor applications
+
+[**Pybotics**](https://github.com/nnadeau/pybotics)
+Simple, open-source Python toolbox for robotics inspired from Peter Corke's Robotics Toolbox for MATLAB.
 
 
 ### Papers ###
