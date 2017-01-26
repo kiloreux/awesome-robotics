@@ -47,7 +47,7 @@ Robot Simulator
 [**ROS**](http://www.ros.org/)
 The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
 
-[**RobWork**](http://www.robwork.dk/jrobwork/)
+[**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
 RobWork is a collection of C++ libraries for simulation and control of robot systems. RobWork is used for research and education as well as for practical robot applications.
 
 [**MRPT**](http://www.mrpt.org/)
@@ -125,7 +125,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 
 
 ### Competitions ###
-* [ICRA Robot Challenges](http://icra2015.org/conference/robot-challenges)
+* [ICRA Robot Challenges](http://www.icra2017.org/conference/robot-challenges)
 * [RobotChallenge](http://www.robotchallenge.org/)
 * [DARPA Robotics Challenge](http://www.theroboticschallenge.org/)
 * [European Robotics Challenges](http://www.euroc-project.eu/)
