@@ -172,3 +172,5 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
+* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
