@@ -7,6 +7,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 
 
 ### Courses ###
+*[Building Arduino robots and devices](https://www.coursera.org/learn/arduino) **Coursera**
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info) **edX**
 * [Underactuated Robotics](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/info) **edX**
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
