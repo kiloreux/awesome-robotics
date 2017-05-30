@@ -25,6 +25,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
 * [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **University of Freiburg**
 
+
 ### Books ###
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
 * [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)  :dollar:
@@ -40,7 +41,6 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
 * [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) :dollar:
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) :dollar:
-
 
 
 ### Software and Libraries ###
@@ -89,6 +89,8 @@ An Internet-accessible simulation system that allows the simulation of robots co
 [**The Player Project**](http://playerstage.sourceforge.net/)
 Free Software tools for robot and sensor applications 
 
+[**Open AI's Roboschool**](https://github.com/openai/roboschool)
+Open-source software for robot simulation, integrated with OpenAI Gym.
 
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
