@@ -21,7 +21,9 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
 * [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
 * [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **University of Pennsylvania**
-
+* [QUT Robot Academy](https://robotacademy.net.au/) **QUT**
+* [Robotics Micromasters](https://www.edx.org/micromasters/pennx-robotics) **University of Pennsylvania**
+* [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php)**University of Freiburg**
 
 ### Books ###
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
