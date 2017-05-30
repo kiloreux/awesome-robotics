@@ -8,7 +8,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 
 ### Courses ###
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
-* [Robotics Nanodegree](https://www.udacity.com/course/robotics-nanodegree--nd209) **Udacity**
+* [Robotics Nanodegree](https://www.udacity.com/course/robotics-nanodegree--nd209) **Udacity** :dollar:
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info) **edX**
 * [Underactuated Robotics](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/info) **edX**
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
@@ -16,14 +16,14 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
 * [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
 * [Robotics Micromasters](https://www.edx.org/micromasters/pennx-robotics) **Edx**
-* [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **Coursera**
+* [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **Coursera** :dollar:
 * [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
 * [QUT Robot Academy](https://robotacademy.net.au/) **QUT**
 * [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
 * [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **MIT**
 * [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
 * [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
-* [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php)**University of Freiburg**
+* [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **University of Freiburg**
 
 ### Books ###
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
