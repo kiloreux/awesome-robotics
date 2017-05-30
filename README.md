@@ -15,8 +15,8 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edX**
 * [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
 * [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
-* [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **University of Pennsylvania**
-* [Robotics Micromasters](https://www.edx.org/micromasters/pennx-robotics) **University of Pennsylvania**
+* [Robotics Micromasters](https://www.edx.org/micromasters/pennx-robotics) **Edx**
+* [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **Coursera**
 * [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
 * [QUT Robot Academy](https://robotacademy.net.au/) **QUT**
 * [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
