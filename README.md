@@ -92,6 +92,9 @@ Free Software tools for robot and sensor applications
 [**Open AI's Roboschool**](https://github.com/openai/roboschool)
 Open-source software for robot simulation, integrated with OpenAI Gym.
 
+[**ViSP**](http://visp.inria.fr/)
+Open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.
+
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
@@ -154,6 +157,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [DJI](http://www.dji.com/) industry leader in drones for both commerical and industrial needs.
 * [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations. 
 * [Fetch Robotics](http://www.fetchrobotics.com/) A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R&D robots.
+* [Festo Robotics](https://www.festo.com/) Festo is known for making moving robots that move like animals such as the sea gull like SmartBird, jellyfish, butterflies and kangaroos.
 
 
 ### Misc ###
