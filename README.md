@@ -24,7 +24,8 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
 * [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
 * [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **University of Freiburg**
-
+* [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx** :dollar:
+* [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx** 
 
 ### Books ###
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
@@ -49,6 +50,9 @@ Robot Simulator
 
 [**ROS**](http://www.ros.org/)
 The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
+
+[**ROS2**](https://github.com/ros2/ros2/wiki)
+ROS2 is a new version of ROS with radical design changes and improvement over older ROS version.
 
 [**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
 RobWork is a collection of C++ libraries for simulation and control of robot systems. RobWork is used for research and education as well as for practical robot applications.
