@@ -42,6 +42,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
 * [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) :dollar:
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) :dollar:
+* [Behavior Trees in Robotics and AI: An Introduction](https://arxiv.org/abs/1709.00084) [[pdf](https://arxiv.org/pdf/1709.00084)]
 
 
 ### Software and Libraries ###
@@ -98,6 +99,10 @@ Open-source software for robot simulation, integrated with OpenAI Gym.
 
 [**ViSP**](http://visp.inria.fr/)
 Open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.
+
+[**ROS Behavior Trees**](https://github.com/miccol/ROS-Behavior-Tree)
+Open-source library to create robot's behaviors in form of Behavior Trees running in ROS (Robot Operating System).
+
 
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
