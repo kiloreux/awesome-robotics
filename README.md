@@ -44,6 +44,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) :dollar:
 * [Behavior Trees in Robotics and AI: An Introduction](https://arxiv.org/abs/1709.00084) [[pdf](https://arxiv.org/pdf/1709.00084)]
 
+
 ### Software and Libraries ###
 [**Gazebo**](http://gazebosim.org/)
 Robot Simulator
