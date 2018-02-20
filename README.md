@@ -65,6 +65,9 @@ Mobile Robot Programming Toolkit provides developers with portable and well-test
 [**Robotics Library**](http://www.roboticslibrary.org/)
 The Robotics Library (RL) is a self-contained C++ library for robot kinematics, motion planning and control. It covers mathematics, kinematics and dynamics, hardware abstraction, motion planning, collision detection, and visualization.
 
+[**Robopy**](https://github.com/adityadua24/robopy)
+Robopy is a python port for Robotics Toolbox in Matlab created by Peter Corke. Use the toolbox to render Serial link robots, compute inverse/forward kinemtics or to use transformation functions. 
+
 [**Simbad**](http://simbad.sourceforge.net/)
 2D/3D simulator in Java and Jython.
 
