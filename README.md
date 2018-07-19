@@ -21,6 +21,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [QUT Robot Academy](https://robotacademy.net.au/) **QUT**
 * [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
 * [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **MIT**
+* [Robotics: Vision Intelligence and Machine Learning](https://www.edx.org/course/robotics-vision-intelligence-machine-pennx-robo2x) **edX**
 * [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
 * [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
 * [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **University of Freiburg**
