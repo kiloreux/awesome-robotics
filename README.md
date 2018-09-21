@@ -26,7 +26,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
 * [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **University of Freiburg**
 * [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx** :dollar:
-* [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx** 
+* [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx**
 
 ### Books ###
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
@@ -94,7 +94,7 @@ A planning, control and analysis toolbox for nonlinear dynamical systems.
 An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
 
 [**The Player Project**](http://playerstage.sourceforge.net/)
-Free Software tools for robot and sensor applications 
+Free Software tools for robot and sensor applications
 
 [**Open AI's Roboschool**](https://github.com/openai/roboschool)
 Open-source software for robot simulation, integrated with OpenAI Gym.
@@ -169,7 +169,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
 * [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
 * [DJI](http://www.dji.com/) industry leader in drones for both commerical and industrial needs.
-* [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations. 
+* [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations.
 * [Fetch Robotics](http://www.fetchrobotics.com/) A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R&D robots.
 * [Festo Robotics](https://www.festo.com/) Festo is known for making moving robots that move like animals such as the sea gull like SmartBird, jellyfish, butterflies and kangaroos.
 
@@ -196,3 +196,4 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+* [Awesome FIRST Robotics Competition](https://github.com/andrewda/awesome-frc)
