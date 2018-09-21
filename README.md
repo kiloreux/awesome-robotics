@@ -105,6 +105,8 @@ Open-source visual servoing platform library, is able to compute control laws th
 [**ROS Behavior Trees**](https://github.com/miccol/ROS-Behavior-Tree)
 Open-source library to create robot's behaviors in form of Behavior Trees running in ROS (Robot Operating System).
 
+[**g2core**](https://github.com/synthetos/g2)
+Open-source motion control software for CNC and Robotics, designed to run on Arduino Due class microcontrollers.
 
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
