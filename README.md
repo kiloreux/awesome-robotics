@@ -183,6 +183,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
 * [StackExachange Robotics community](https://robotics.stackexchange.com)
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
+* [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
 
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
