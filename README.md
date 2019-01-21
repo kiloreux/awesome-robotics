@@ -108,6 +108,9 @@ Open-source library to create robot's behaviors in form of Behavior Trees runnin
 [**g2core**](https://github.com/synthetos/g2)
 Open-source motion control software for CNC and Robotics, designed to run on Arduino Due class microcontrollers.
 
+[**ur5controller**](https://github.com/roboticsleeds/ur5controller)
+Open-source OpenRAVE controller for UR5 robot integrated with ROS.
+
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
