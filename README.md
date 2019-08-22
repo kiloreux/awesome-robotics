@@ -41,6 +41,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
 * [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275):dollar:
 * [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
+* [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/) :dollar:
 * [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) :dollar:
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) :dollar:
 * [Behavior Trees in Robotics and AI: An Introduction](https://btirai.github.io/) [[pdf](https://arxiv.org/pdf/1709.00084)]
