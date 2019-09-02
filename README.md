@@ -27,6 +27,8 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **University of Freiburg**
 * [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx** :dollar:
 * [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx** 
+* [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2) **edx**
+* [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) **UCBerkeley**
 
 ### Books ###
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
