@@ -10,7 +10,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
 * [Robotics Nanodegree](https://www.udacity.com/course/robotics-nanodegree--nd209) **Udacity** :dollar:
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info) **edX**
-* [Underactuated Robotics](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/info) **edX**
+* [Underactuated Robotics](http://underactuated.csail.mit.edu/underactuated.html) **MIT CSAIL**
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
 * [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edX**
 * [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
@@ -28,11 +28,14 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx** :dollar:
 * [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx** 
 * [Modern Robotics: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics?) **Coursera**
+* [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2) **edx**
+* [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) **UCBerkeley**
+
 
 ### Books ###
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
 * [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)  :dollar:
-* [Springer Handbook of Robotics](http://www.amazon.com/Springer-Handbook-Robotics-Bruno-Siciliano/dp/354023957X)  :dollar:
+* [Springer Handbook of Robotics](https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/)  :dollar:
 * [Planning Algorithms](http://planning.cs.uiuc.edu/)
 * [A gentle introduction to ROS](https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf)
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
@@ -42,6 +45,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
 * [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275):dollar:
 * [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
+* [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/) :dollar:
 * [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) :dollar:
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) :dollar:
 * [Behavior Trees in Robotics and AI: An Introduction](https://btirai.github.io/) [[pdf](https://arxiv.org/pdf/1709.00084)]
@@ -55,7 +59,7 @@ Robot Simulator
 [**ROS**](http://www.ros.org/)
 The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
 
-[**ROS2**](https://github.com/ros2/ros2/wiki)
+[**ROS2**](https://index.ros.org/doc/ros2/)
 ROS2 is a new version of ROS with radical design changes and improvement over older ROS version.
 
 [**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
@@ -95,7 +99,7 @@ A planning, control and analysis toolbox for nonlinear dynamical systems.
 An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
 
 [**The Player Project**](http://playerstage.sourceforge.net/)
-Free Software tools for robot and sensor applications 
+Free Software tools for robot and sensor applications
 
 [**Open AI's Roboschool**](https://github.com/openai/roboschool)
 Open-source software for robot simulation, integrated with OpenAI Gym.
@@ -108,6 +112,9 @@ Open-source library to create robot's behaviors in form of Behavior Trees runnin
 
 [**g2core**](https://github.com/synthetos/g2)
 Open-source motion control software for CNC and Robotics, designed to run on Arduino Due class microcontrollers.
+
+[**ur5controller**](https://github.com/roboticsleeds/ur5controller)
+Open-source OpenRAVE controller for UR5 robot integrated with ROS.
 
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
@@ -170,7 +177,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
 * [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
 * [DJI](http://www.dji.com/) industry leader in drones for both commerical and industrial needs.
-* [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations. 
+* [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations.
 * [Fetch Robotics](http://www.fetchrobotics.com/) A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R&D robots.
 * [Festo Robotics](https://www.festo.com/) Festo is known for making moving robots that move like animals such as the sea gull like SmartBird, jellyfish, butterflies and kangaroos.
 
@@ -194,6 +201,8 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+* [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
