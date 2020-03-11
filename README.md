@@ -116,6 +116,9 @@ Open-source motion control software for CNC and Robotics, designed to run on Ard
 [**ur5controller**](https://github.com/roboticsleeds/ur5controller)
 Open-source OpenRAVE controller for UR5 robot integrated with ROS.
 
+[**RBDL**](https://github.com/rbdl/rbdl)
+Open-source (zlib) C++ libray for both forward and inverse dynamics and kinematics. Also supports contacts and loops.
+
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
