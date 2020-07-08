@@ -164,6 +164,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
 * [VEX Robotics Competition](https://www.vexrobotics.com/)
 * [RoboCup](http://www.robocup.org/)
+* [RoboCupJunior](https://junior.robocup.org/)
 * [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
 * [RoboMasters](http://www.robomasters.com/en/)
 * [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
@@ -209,3 +210,4 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 * [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
+* [Awesome RoboCupJunior Soccer](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)
