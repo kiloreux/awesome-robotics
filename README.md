@@ -166,7 +166,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [RoboCup](http://www.robocup.org/)
 * [RoboCupJunior](https://junior.robocup.org/)
 * [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
-* [RoboMasters](http://www.robomasters.com/en/)
+* [RoboMasters](https://www.robomaster.com/en-US)
 * [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
 * [Intelligent Ground Vehicle Competition](http://www.igvc.org/)
 * [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
