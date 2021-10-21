@@ -8,14 +8,13 @@ This is a list of various books, courses and other resources for robotics. It's 
 
 ### Courses ###
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
-* [Robotics Nanodegree](https://www.udacity.com/course/robotics-nanodegree--nd209) **Udacity** :dollar:
+* [Robotics Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity** :dollar:
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+2T2019/5b151c51e8bf47c29d97f8a12369df17/) **edX**
 * [Underactuated Robotics](http://underactuated.csail.mit.edu/underactuated.html) **MIT CSAIL**
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
 * [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edX**
 * [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
 * [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
-* [Robotics Micromasters](https://www.edx.org/micromasters/pennx-robotics) **edX**
 * [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **Coursera** :dollar:
 * [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
 * [QUT Robot Academy](https://robotacademy.net.au/) **QUT**
@@ -30,7 +29,11 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Modern Robotics: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics?) **Coursera**
 * [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2) **edx**
 * [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) **UCBerkeley**
-
+* [Building Arduino robots and devices](https://www.coursera.org/learn/arduino) **Coursera**
+* [Introduction to The Robot Operating System (ROS2)](https://www.coursera.org/projects/ros2-intro) **Coursera**
+* [Modern Robotics: Mechanics, Planning, and Control Specialization](https://www.coursera.org/specializations/modernrobotics) **Coursera**
+* [Become a Robotics Software Enginee](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity**
+* [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **UC Berkeley**
 
 ### Books ###
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
@@ -116,6 +119,12 @@ Open-source motion control software for CNC and Robotics, designed to run on Ard
 [**ur5controller**](https://github.com/roboticsleeds/ur5controller)
 Open-source OpenRAVE controller for UR5 robot integrated with ROS.
 
+[**RBDL**](https://github.com/rbdl/rbdl)
+Open-source (zlib) C++ libray for both forward and inverse dynamics and kinematics. Also supports contacts and loops.
+
+[**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
+Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
+
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
@@ -161,11 +170,13 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
 * [VEX Robotics Competition](https://www.vexrobotics.com/)
 * [RoboCup](http://www.robocup.org/)
+* [RoboCupJunior](https://junior.robocup.org/)
 * [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
-* [RoboMasters](http://www.robomasters.com/en/)
+* [RoboMasters](https://www.robomaster.com/en-US)
 * [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
 * [Intelligent Ground Vehicle Competition](http://www.igvc.org/)
 * [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
+* [First Lego League](https://www.firstlegoleague.org/)
 
 ### Companies ###
 * [Boston Dynamics](http://www.bostondynamics.com/) robotics R&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
@@ -180,7 +191,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations.
 * [Fetch Robotics](http://www.fetchrobotics.com/) A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R&D robots.
 * [Festo Robotics](https://www.festo.com/) Festo is known for making moving robots that move like animals such as the sea gull like SmartBird, jellyfish, butterflies and kangaroos.
-
+* [Neobotix](https://www.neobotix-robots.com/homepage) manufacturer of industrial, research and as well as custom mobile robots. 
 
 ### Misc ###
 * [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
@@ -194,6 +205,8 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [StackExachange Robotics community](https://robotics.stackexchange.com)
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 * [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
+* [Hexapod Robot Simulator](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
+* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
 
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
@@ -206,3 +219,4 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 * [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
+* [Awesome RoboCupJunior Soccer](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)
