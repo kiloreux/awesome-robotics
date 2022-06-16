@@ -166,7 +166,6 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 ### Competitions ###
 * [ICRA Robot Challenges](http://www.icra2017.org/conference/robot-challenges)
 * [RobotChallenge](http://www.robotchallenge.org/)
-* [DARPA Robotics Challenge](http://www.theroboticschallenge.org/)
 * [European Robotics Challenges](http://www.euroc-project.eu/)
 * [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
 * [VEX Robotics Competition](https://www.vexrobotics.com/)
@@ -178,6 +177,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Intelligent Ground Vehicle Competition](http://www.igvc.org/)
 * [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
 * [First Lego League](https://www.firstlegoleague.org/)
+* [DARPA Robotics Challenge - Archived](https://www.darpa.mil/program/darpa-robotics-challenge)
 
 ### Companies ###
 * [Boston Dynamics](http://www.bostondynamics.com/) robotics R&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
