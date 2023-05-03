@@ -54,6 +54,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Behavior Trees in Robotics and AI: An Introduction](https://btirai.github.io/) [[pdf](https://arxiv.org/pdf/1709.00084)]
 * [Automated Planning and Acting](http://projects.laas.fr/planning/) [[pdf](http://projects.laas.fr/planning/book.pdf)]
 * [Robotics for Programmers](https://www.manning.com/books/robotics-for-software-engineers) :dollar:
+* [Build Your Own Robot](https://www.manning.com/books/build-your-own-robot) :dollar:
 
 
 ### Software and Libraries ###
