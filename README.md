@@ -34,6 +34,19 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Modern Robotics: Mechanics, Planning, and Control Specialization](https://www.coursera.org/specializations/modernrobotics) **Coursera**
 * [Become a Robotics Software Enginee](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity**
 * [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **UC Berkeley**
+* [ROS2 Ultimate Course for Beginners](https://www.udemy.com/course/ros2-ultimate-course-for-starters/) **Udemy**
+* [Master Robotic Car with ESP32 from Scratch](https://www.udemy.com/course/master-robotic-car-with-esp32-from-scratch/)  **Udemy**
+* [ROS Ultimate Guide for Beginners with TurtleBot3 and Robot](https://www.udemy.com/course/the-ultimate-guide-to-ros-simulate-your-robots/) **Udemy**
+* [Autonomous Car:Deep Learning & Computer Vision for Beginners](https://www.udemy.com/course/autonomous-car-deep-learning-computer-vision-for-beginners/) **Udemy**
+* [ROS2 Path Planning and Maze Solving with Computer Vision
+](https://www.udemy.com/course/ros2-path-planning-and-maze-solving-with-computer-vision/) **Udemy**
+* [ROS2 Autonomous Driving and SLAM using NAV2 with TurtleBot3](https://www.udemy.com/course/robotics-with-ros-autonomous-driving-and-path-planning-slam/) **Udemy** 
+* [ROS 2 Artificial Intelligent Robot using Raspberry PI](https://www.udemy.com/course/robotics-with-ros-real-robot-using-raspberry-pi-and-opencv/) **Udemy**
+* [ROS2 Point Clouds For Autonomous Self Driving Car using PCL](https://www.udemy.com/course/ros2-point-clouds-for-autonomous-self-driving-car-using-pcl/) **Udemy** 
+* [ROS crash course](https://www.youtube.com/watch?v=wfDJAYTMTdk&list=PLLSegLrePWgJk6dfV-UXSh2TZ74wNntWt&index=4)   **YouTube**
+* [ROS 2 Tutorials](https://www.youtube.com/playlist?list=PLLSegLrePWgJudpPUof4-nVFHGkB62Izy) **YouTube**
+* [ROS 2 Advanced](https://www.youtube.com/playlist?list=PLunhqkrRNRhYYCaSTVP-qJnyUPkTxJnBt) **YouTube**   
+* [ROS 2 Navigation](https://www.youtube.com/watch?v=idQb2pB-h2Q&pp=ygUQcm9zIDIgbmF2aWdhdGlvbg%3D%3D) **YouTube**
 
 ### Books ###
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
