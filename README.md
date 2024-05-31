@@ -64,7 +64,7 @@ Robot Simulator
 The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
 
 [**ROS2**](https://index.ros.org/doc/ros2/)
-ROS2 is a new version of ROS with radical design changes and improvement over older ROS version.
+ROS2 is a new version of ROS with radical design changes and improvements over the older ROS version.
 
 [**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
 RobWork is a collection of C++ libraries for simulation and control of robot systems. RobWork is used for research and education as well as for practical robot applications.
@@ -121,7 +121,7 @@ Open-source motion control software for CNC and Robotics, designed to run on Ard
 Open-source OpenRAVE controller for UR5 robot integrated with ROS.
 
 [**RBDL**](https://github.com/rbdl/rbdl)
-Open-source (zlib) C++ libray for both forward and inverse dynamics and kinematics. Also supports contacts and loops.
+Open-source (zlib) C++ library for both forward and inverse dynamics and kinematics. Also supports contacts and loops.
 
 [**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
