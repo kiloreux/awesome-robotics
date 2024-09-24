@@ -58,6 +58,10 @@ This is a list of various books, courses and other resources for robotics. It's 
 
 
 ### Software and Libraries ###
+
+[**Foxglove Studio**](https://foxglove.dev)
+Open source visualization and debugging app for your robotics data, available on desktop and web.
+
 [**Gazebo**](http://gazebosim.org/)
 Robot Simulator
 
