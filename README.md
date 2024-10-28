@@ -64,8 +64,8 @@ Robot Simulator
 [**ROS**](http://www.ros.org/)
 The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
 
-[**ROS2**](https://index.ros.org/doc/ros2/)
-ROS2 is a new version of ROS with radical design changes and improvement over older ROS version.
+[**ROS 2**](https://docs.ros.org/)
+ROS 2 is a new version of ROS with radical design changes and improvements over older ROS versions.
 
 [**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
 RobWork is a collection of C++ libraries for simulation and control of robot systems. RobWork is used for research and education as well as for practical robot applications.
