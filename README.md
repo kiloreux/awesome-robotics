@@ -73,6 +73,9 @@ RobWork is a collection of C++ libraries for simulation and control of robot sys
 [**MRPT**](http://www.mrpt.org/)
 Mobile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas.
 
+[**MuJoCo**](https://mujoco.org/)
+MuJoCo (Multi-Joint dynamics with Contact) is a physics engine that provides developers with portable and efficient tools for simulating complex systems with precision. It supports research areas such as robotics, biomechanics, and machine learning by offering flexible modeling and high-performance simulation capabilities.
+
 [**Robotics Library**](http://www.roboticslibrary.org/)
 The Robotics Library (RL) is a self-contained C++ library for robot kinematics, motion planning and control. It covers mathematics, kinematics and dynamics, hardware abstraction, motion planning, collision detection, and visualization.
 
