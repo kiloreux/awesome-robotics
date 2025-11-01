@@ -14,6 +14,8 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
 * [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edX**
 * [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
+* [Robotics 1 (Kinematics)](https://www.diag.uniroma1.it/deluca/rob1_en.php) **Sapienza University of Rome**
+* [Robotics 2 (Dynamics and Control)](http://www.diag.uniroma1.it/deluca/rob2_en.php) **Sapienza University of Rome**
 * [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
 * [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **Coursera** :dollar:
 * [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
@@ -35,6 +37,8 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Become a Robotics Software Enginee](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity**
 * [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **UC Berkeley**
 * [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown) **edX**
+* [Autonomous and Mobile Robotics](https://www.diag.uniroma1.it/oriolo/amr/) **Sapienza University of Rome**
+* [Probabilistic Robotics](https://sites.google.com/diag.uniroma1.it/probabilistic-robotics-2024-25/) **Sapienza University of Rome**
 
 ### Books ###
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
