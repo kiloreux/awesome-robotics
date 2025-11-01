@@ -32,7 +32,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Building Arduino robots and devices](https://www.coursera.org/learn/arduino) **Coursera**
 * [Introduction to The Robot Operating System (ROS2)](https://www.coursera.org/projects/ros2-intro) **Coursera**
 * [Modern Robotics: Mechanics, Planning, and Control Specialization](https://www.coursera.org/specializations/modernrobotics) **Coursera**
-* [Become a Robotics Software Enginee](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity**
+* [Become a Robotics Software Engineer](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity**
 * [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **UC Berkeley**
 * [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown) **edX**
 
