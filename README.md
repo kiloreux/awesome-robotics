@@ -61,6 +61,9 @@ This is a list of various books, courses and other resources for robotics. It's 
 [**Gazebo**](http://gazebosim.org/)
 Robot Simulator
 
+[**OSEF**](https://github.com/emerladcompass/OSEF-Framework)
+Aviation safety supervision using limit cycle dynamics.
+
 [**ROS**](http://www.ros.org/)
 The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
 
@@ -209,6 +212,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
 * [Hexapod Robot Simulator](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
+  
 
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
@@ -216,7 +220,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-* [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)
+* [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)*
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
