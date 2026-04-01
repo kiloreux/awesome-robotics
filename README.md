@@ -127,6 +127,8 @@ Open-source (zlib) C++ libray for both forward and inverse dynamics and kinemati
 [**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
 
+* [project_pallas_ros2](https://github.com/RobotFlow-Labs/project_pallas_ros2) ROS 2 LiDAR odometry and continuous-time mapping stack supporting Ouster, Hesai, Livox, RoboSense, Velodyne, and Unitree sensors.
+
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
