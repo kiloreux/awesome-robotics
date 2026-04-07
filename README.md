@@ -209,6 +209,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
 * [Hexapod Robot Simulator](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
