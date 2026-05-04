@@ -67,6 +67,9 @@ The Robot Operating System (ROS) is a flexible framework for writing robot softw
 [**ROS2**](https://index.ros.org/doc/ros2/)
 ROS2 is a new version of ROS with radical design changes and improvement over older ROS version.
 
+[**ros2-agent / ROSIE**](https://github.com/ros2-agent/ros2-agent)
+LLM-powered agent to control, monitor, and debug ROS 2 robots in plain English. Supports OpenAI, Anthropic, and Ollama. Built with LangGraph. Try it: `pip install ros2-agent && ros2-agent chat --mock`
+
 [**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
 RobWork is a collection of C++ libraries for simulation and control of robot systems. RobWork is used for research and education as well as for practical robot applications.
 
