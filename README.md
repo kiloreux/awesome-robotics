@@ -99,6 +99,7 @@ Webots is a development environment used to model, program and simulate mobile r
 
 [**Drake**](http://drake.mit.edu/)
 A planning, control and analysis toolbox for nonlinear dynamical systems.
+- [MIT 6.4210 Robotic Manipulation](https://manipulation.mit.edu/) - Free course on robotic manipulation by Russ Tedrake.
 
 [**Neurorobotics Platform (NRP)**](https://neurorobotics.net/)
 An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
