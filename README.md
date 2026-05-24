@@ -198,6 +198,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 ### Misc ###
 * [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
 * [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
+* [brain4machinery](https://brain4machinery.com/) — technical deep-dives on Jetson carrier boards, FPGA-Jetson hybrid controllers, and industrial robotics hardware design
 * [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
 * [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
 * [Carnegie Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
