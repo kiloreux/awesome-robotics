@@ -58,6 +58,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 
 
 ### Software and Libraries ###
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 [**Gazebo**](http://gazebosim.org/)
 Robot Simulator
 
