@@ -196,6 +196,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Neobotix](https://www.neobotix-robots.com/homepage) manufacturer of industrial, research and as well as custom mobile robots. 
 
 ### Misc ###
+- [MetaVision Text-to-CNC](https://github.com/adminmetavision-rgb/text-to-cnc-agent) - AI agent: text prompt → 3D model → G-code for CNC/3D printers. MCP compatible, x402 micropayments on Base.
 * [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
 * [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
 * [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
