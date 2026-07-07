@@ -85,6 +85,9 @@ General purpose indoor/outdoor 3D simulator.
 [**Carmen**](http://carmen.sourceforge.net/)
 CARMEN is an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation primitives including: base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping.
 
+[**FusionCore**](https://github.com/manankharwar/fusioncore)
+A ROS 2 UKF fusing GPS, IMU, and wheel odometry with adaptive noise estimation and GPS outlier rejection for robust outdoor localization.
+
 [**Peekabot**](http://www.peekabot.org/)
 Peekabot is a real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily.
 
