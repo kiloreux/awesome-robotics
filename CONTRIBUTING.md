@@ -1,19 +1,27 @@
-# Contributions Guidelines
+# Contributing to `ros2-mcp-server`
 
-Before submitting pull request please :
+First off, thank you for considering contributing to `ros2-mcp-server`! We welcome all contributions, from bug reports and documentation fixes to major feature additions.
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
-- Make an individual pull request for each suggestion.
-- Use [title-casing](http://titlecapitalization.com) (AP style).
-- Use the following format: `[List Name](link)`
-- Link additions should be added to the bottom of the relevant category.
-- New categories or improvements to the existing categorization are welcome.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title.
-- The body of your commit message should contain a link to the repository.
-- Check that it's not already in the list
-- Make sure that it's not an outdated resource that is no longer useful
-- It doesn't link to an illegal source, like a book that is illegally distributed
-- **Finally** please remember that every link and contribution no matter how small it is, is highly appreciated and encouraged as it helps gather all the resources in one place.
+## Local Development & Instant Playground
+
+You do **not** need a physical robot or a complex ROS2 installation to develop for this repository.
+We have built a robust simulation layer that generates synthetic LiDAR, IMU, and Battery data.
+
+To test your code locally:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -e .
+python ros2_mcp/server.py --demo-sim
+```
+
+## Pull Request Process
+
+1. **Fork & Branch**: Fork the repository and create a descriptive branch name (e.g. `feat/new-mcp-tool`).
+2. **Strict Linting**: We use `ruff` to ensure absolute codebase integrity. Before committing, run:
+   ```bash
+   python -m ruff check . --fix
+   python -m ruff format .
+   ```
+3. **Tests**: Ensure the 38-test suite passes via `python run_tests.py`.
+4. **Submit PR**: Use our provided PR template to explain your changes. We will review your PR within 2-3 business days.
