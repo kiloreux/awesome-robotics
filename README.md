@@ -58,6 +58,10 @@ This is a list of various books, courses and other resources for robotics. It's 
 
 
 ### Software and Libraries ###
+
+[**dimOS**](https://github.com/dimensionalOS/dimos)
+An agentic operating system for robots: build software layer for humanoids, drones, quadrupeds and other hardwares in natural language with built-in MCP server. No ROS required.
+
 [**Gazebo**](http://gazebosim.org/)
 Robot Simulator
 
