@@ -127,6 +127,9 @@ Open-source (zlib) C++ libray for both forward and inverse dynamics and kinemati
 [**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
 
+[**OmniSim**](https://github.com/omnilink-tech/omnisim)
+Open-source robotics simulator with Newton/MuJoCo physics, URDF and STEP import, ROS 2 base topics, synthetic-data generation, executed benchmark suites, and HTTP/JSON plus MCP interfaces for programmatic agent control.
+
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
