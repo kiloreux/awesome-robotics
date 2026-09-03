@@ -58,6 +58,9 @@ This is a list of various books, courses and other resources for robotics. It's 
 
 
 ### Software and Libraries ###
+[**KUKA KRL Extension**](https://github.com/LiskinLabs/kuka-krl-extension)
+Professional VS Code development suite for KUKA Robot Language (KRL) featuring interactive control flow graphs, 3-point frame calculation, AST diagnostics, and KRC backup delta inspection for industrial robots.
+
 [**Gazebo**](http://gazebosim.org/)
 Robot Simulator
 
