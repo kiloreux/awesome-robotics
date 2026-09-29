@@ -1,6 +1,7 @@
 Awesome Robotics
 ================
 
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
@@ -126,6 +127,8 @@ Open-source (zlib) C++ libray for both forward and inverse dynamics and kinemati
 
 [**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
+
+[**telemetry-resilience**](https://github.com/solhopie/telemetry-resilience) — deterministic fault injection (mutation testing) for telemetry pipelines.
 
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
