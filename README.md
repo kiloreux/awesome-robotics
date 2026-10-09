@@ -210,6 +210,8 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Hexapod Robot Simulator](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
 
+* [Botstest](https://botstest.com/) - A categorized directory of embodied AI and robotics hardware, software, models, datasets, and benchmarks.
+
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
