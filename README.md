@@ -127,6 +127,9 @@ Open-source (zlib) C++ libray for both forward and inverse dynamics and kinemati
 [**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
 
+[**Bag Timeline Audit**](https://github.com/Afloat16/bag-timeline-audit)
+Read-only ROS 2 SQLite and MCAP timestamp diagnostics for gaps, regressions, duplicate stamps and explicit same-clock cross-topic alignment.
+
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
