@@ -64,7 +64,7 @@ Robot Simulator
 [**ROS**](http://www.ros.org/)
 The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
 
-[**ROS2**](https://index.ros.org/doc/ros2/)
+[**ROS2**](https://docs.ros.org/)
 ROS2 is a new version of ROS with radical design changes and improvement over older ROS version.
 
 [**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
@@ -94,7 +94,7 @@ Yet Another Robot Platform.
 [**V-REP**](http://www.coppeliarobotics.com/)
 Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver.
 
-[**Webots**](https://www.cyberbotics.com/overview)
+[**Webots**](https://github.com/cyberbotics/webots)
 Webots is a development environment used to model, program and simulate mobile robots.
 
 [**Drake**](http://drake.mit.edu/)
@@ -188,7 +188,6 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [ABB Robotics](http://new.abb.com/products/robotics) the largest manufacturer of industrial robots
 * [KUKA Robotics](http://www.kuka-robotics.com/en/) major manufacturer of industrial robots targeted at factory automation
 * [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
-* [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
 * [DJI](http://www.dji.com/) industry leader in drones for both commerical and industrial needs.
 * [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations.
 * [Fetch Robotics](http://www.fetchrobotics.com/) A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R&D robots.
