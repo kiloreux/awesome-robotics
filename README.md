@@ -127,6 +127,9 @@ Open-source (zlib) C++ libray for both forward and inverse dynamics and kinemati
 [**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
 
+[**Cadence**](https://github.com/muellerberndt/cadence)
+Brain-inspired Python library for embodied agents that learn from live experience while they act, using local plasticity instead of backpropagation, with built-in memory. Demonstrated in simulation. [Paper](https://philpapers.org/rec/MUECAP-2)
+
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
