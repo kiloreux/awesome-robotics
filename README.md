@@ -222,3 +222,6 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 * [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
 * [Awesome RoboCupJunior Soccer](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)
+
+[**NEXUS-MM**](https://nexusmm.site/)
+Real-time robot physics validation API (speed × terrain × slope → safety decision). Live free challenge key, WebGL simulator, and SDK: https://github.com/AfricaAI348/nexus-mm-sdk
