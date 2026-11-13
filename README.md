@@ -127,6 +127,12 @@ Open-source (zlib) C++ libray for both forward and inverse dynamics and kinemati
 [**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
 
+[**ROS2 Hardware Bridge**](https://github.com/EngineerAbdullahBinZafar/ros2-hardware-bridge)
+A lightweight, plug-and-play serial bridge for ROS2 to STM32/ESP32 communication. Designed for real-time hardware interfacing without the complexity of micro-ROS.
+
+[**Principia Robotica**](https://github.com/EngineerAbdullahBinZafar/principia-robotica)
+The deterministic zero-trust safety gateway between Large Language Models and physical robotic hardware using formal Control Barrier Functions (CBF-QP).
+
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
