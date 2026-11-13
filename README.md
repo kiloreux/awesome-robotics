@@ -209,6 +209,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
 * [Hexapod Robot Simulator](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
+* [Ainekio Quadruped Robot](https://ainek.io/) - Engineering build journal and technical specification for a 650 g 12-servo ESP32-P4 quadruped robot with on-chip RL gait and local cognitive OS
 
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
