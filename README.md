@@ -127,6 +127,9 @@ Open-source (zlib) C++ libray for both forward and inverse dynamics and kinemati
 [**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
 
+[**NeckLink**](https://github.com/indian-aman/necklink)
+Open-source Python, WebAssembly, and zero-float ANSI C99 reflex controller and 4-organ sensorimotor suite running weight matrices compiled from the adult Drosophila BANC v888 connectome, with MAVLink v2 and ROS 2 bridges.
+
 ### Papers ###
 * [Optimization Based Controller Design and Implementation for the
 Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
